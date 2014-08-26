@@ -32,11 +32,11 @@
 * Current DB: test_db
 
 ## DEMO
-`http://toybuildingzone.com/inform.php?cat=%inject_here%&pv=45`
-`http://www.sportsystemscorp.com/inform.php?cat=%inject_here%`
-`http://www.cantow.ca/inform.php?cat=%inject_here%&nv=188`
-`http://www.agl.ca/inform.php?cat=%inject_here%&nv=23`
-`http://www.movemyhottub.ca/inform.php?cat=%inject_here%&nv=150`
+http://toybuildingzone.com/inform.php?cat=%inject_here%&pv=45
+http://www.sportsystemscorp.com/inform.php?cat=%inject_here%
+http://www.cantow.ca/inform.php?cat=%inject_here%&nv=188
+http://www.agl.ca/inform.php?cat=%inject_here%&nv=23
+http://www.movemyhottub.ca/inform.php?cat=%inject_here%&nv=150
 
 ## Thanks To
 * Allah SWT
@@ -46,7 +46,7 @@
 * Jim Geovedi
 * Yogyakarta Blackhat
 * Yogyacarderlink
-* And you...
+* And You
 
 * Discovered By Barrabravaz
 * barrabravaz@outlook.com 
