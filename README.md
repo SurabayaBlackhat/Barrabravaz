@@ -1,18 +1,17 @@
 #Website by PIXWeaver Blind SQL Injection Disclosure
 
-
-### Exploit Title        : Website by PIXWeaver Blind SQL Injection Disclosure
-### Google Dork          : inurl:/inform.php?cat=
-### Date                 : 26/08/2014
-### Exploit Author       : Barrabravaz
-### Vendor Homepage      : http://www.pixweaver.com/
-### Version              : -
-### Tested on            : Windows, Linux
+* Exploit Title        : Website by PIXWeaver Blind SQL Injection Disclosure
+* Google Dork          : inurl:/inform.php?cat=
+* Date                 : 26/08/2014
+* Exploit Author       : Barrabravaz
+* Vendor Homepage      : http://www.pixweaver.com/
+* Version              : -
+* Tested on            : Windows, Linux
 
 ## Author will be not responsible for any damage
-### Issue: 
-#### Blind SQL Injection Disclosure Vulnerability
-### Risk level: High
+#### Issue: 
+##### Blind SQL Injection Disclosure Vulnerability
+#### Risk level: High
 
 ### Proof Of Concept:
 `http://127.0.0.1/inform.php?cat=%inject_here%&pv=45`
