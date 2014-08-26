@@ -1,4 +1,4 @@
-#Website by PIXWeaver Blind SQL Injection Disclosure
+# Website by PIXWeaver Blind SQL Injection Disclosure
 
 * Exploit Title        : Website by PIXWeaver Blind SQL Injection Disclosure
 * Google Dork          : inurl:/inform.php?cat=
@@ -9,11 +9,10 @@
 * Tested on            : Windows, Linux
 
 ## Author will be not responsible for any damage
-#### Issue: 
-##### Blind SQL Injection Disclosure Vulnerability
-#### Risk level: High
+* Issue: Blind SQL Injection Disclosure Vulnerability
+* Risk level: High
 
-### Proof Of Concept:
+## Proof Of Concept:
 `http://127.0.0.1/inform.php?cat=%inject_here%&pv=45`
 * ( take Havij for example )
 * Host IP: 207.112.70.25
